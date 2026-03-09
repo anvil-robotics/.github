@@ -1,6 +1,6 @@
-# Welcome to Anvil Robotics 👋
+<img width="1346" height="757" alt="image" src="https://github.com/user-attachments/assets/ca4699ef-cdc9-4a17-b003-ec88af6afafb" />
 
-<img width="854" height="480" alt="quest-lego" src="https://github.com/user-attachments/assets/2c5b03e0-6844-4470-8f37-ee2dd1eb8da6" />
+# Welcome to Anvil Robotics 👋
 
 Hey there! Mike & Vijay here, the founders of Anvil Robotics. We're super excited to welcome you to the Anvil ecosystem. 
 
