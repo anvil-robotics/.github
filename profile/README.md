@@ -8,7 +8,7 @@ Hey there! Mike & Vijay here, the founders of Anvil Robotics. We're super excite
 
 This basic tooling is table stakes for building Physical AI, yet <ins>everyone is rebuilding the same thing, eating up months of time hitting every speed bump.</ins>
 
-Now with the Anvil Platform, anyone on a grad student budget can train end to end Physical AI models on day 1 with the right set of hardware and software. Anvil's solutions are highly composable, so you can take them apart, rebuild them, or modify them to fit your task space. Most of our robots are Open Sourced, so you're not limited in any way, in fact we'll help you fork and customize any of our robots.
+Now with the Anvil Platform, anyone on a grad student budget can train end to end Physical AI models on day 1 with the right set of hardware and software. Anvil's solutions are highly composable, so you can take them apart, rebuild them, or modify them to fit your task space. <ins>Most of our robots are open sourced</ins>, so you're not limited in any way, in fact we'll help you fork and customize any of our robots. You can find all our open sourced repositories below.
 
 * [Home Page](https://anvil.bot)
 * [Technical Docs](https://docs.anvil.bot)
