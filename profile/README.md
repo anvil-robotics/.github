@@ -1,5 +1,7 @@
 # Welcome to Anvil Robotics 👋
 
+<img width="854" height="480" alt="quest-lego" src="https://github.com/user-attachments/assets/2c5b03e0-6844-4470-8f37-ee2dd1eb8da6" />
+
 Hey there! Mike & Vijay here, the founders of Anvil Robotics. We're super excited to welcome you to the Anvil ecosystem. 
 
 <ins>If you're building in Physical AI, then Anvil is for you.</ins> Anvil's goal is to solve key pains in building and deploying Physical AI, this ranges from labs and garages, into production environments. We realized that many teams were burning months of time grappling with the thick stack of hardware and software, integrating cameras, control systems, writing their own IK, building teleop with GELLO and quest, and hooking up various scripts for teleop and data collection.
