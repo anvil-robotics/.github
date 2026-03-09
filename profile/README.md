@@ -20,7 +20,7 @@ Anvil's solutions are highly composable, so you can take them apart, rebuild the
 
 ## Connect with us
 
-* Join our [Discord Community](mailto:support@anvil.bot)
+* Join our [Discord Community](https://discord.com/Dz6kavzy79)
 * Follow our [Twitter/X](https://x.com/anvil_robotics)
 * Add [Mike](https://www.linkedin.com/in/xiam/) and [Vijay](https://www.linkedin.com/in/vijay-pradeep/) on Linkedin
 * [Email support](mailto:support@anvil.bot) for everything else
