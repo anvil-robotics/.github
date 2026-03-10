@@ -15,12 +15,12 @@ Anvil's solutions are highly composable, so you can take them apart, rebuild the
 
 ## Anvil's resources
 
-* [Technical Docs](https://docs.anvil.bot)
+* [Docs and Guides](https://docs.anvil.bot)
 * [Devkits and more](https://shop.anvil.bot)
 
 ## Connect with us
 
-* Join our [Discord Community](https://discord.com/Dz6kavzy79)
+* Join our [Discord Community](https://discord.gg/Dz6kavzy79)
 * Follow our [Twitter/X](https://x.com/anvil_robotics)
 * Add [Mike](https://www.linkedin.com/in/xiam/) and [Vijay](https://www.linkedin.com/in/vijay-pradeep/) on Linkedin
 * [Email support](mailto:support@anvil.bot) for everything else
